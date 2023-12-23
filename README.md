@@ -1,4 +1,6 @@
 # NITS-DBMS
+![Uploading image.png…]()
+
 
 College Database Management System (MERN Stack)
 Welcome to the College Database Management System! This system is built using the MERN (MongoDB, Express.js, React, Node.js) stack to manage data for admins, students, and faculty.
